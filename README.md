@@ -1,16 +1,28 @@
-## Hi there 👋
+# Neil Sisson
 
-<!--
-**Shad0r/Shad0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fractional CMO and growth lead building agentic AI systems for marketing and finance.
 
-Here are some ideas to get you started:
+Since February 2026 I've been building AI agents and automations that sit at the centre of how I work: content and research pipelines, marketing and finance workflows, dashboards and "AI employees" for my own businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build**
+- Agentic marketing workflows: research, content drafting, scheduling and reporting
+- Dashboards and data pipelines for growth and finance
+- Web apps for token intelligence and media: [Token Interviews](https://tokeninterviews.com) and [TokenVerdict](https://tokenverdict.com)
+
+**Background**
+Nine years as CMO in fintech and web3 (Hivello, Loop Markets, UpBots), plus about 25 years in revenue roles across tech.
+
+Most of my code lives in private repos. The contribution graph shows the activity, and I'm happy to walk through work on request.
+
+[neilsisson.com](https://neilsisson.com) · [LinkedIn](https://linkedin.com/in/neilsisson)
+
+
+
+
+
+
+
+
+
+
+
